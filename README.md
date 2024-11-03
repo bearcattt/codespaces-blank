@@ -40,8 +40,8 @@ A guide for updating from any version to v3 can be found [here](https://github.c
 
 Starting from v3, Ultraviolet uses [bare-mux](https://github.com/MercuryWorkshop/bare-mux), a library that allows you to switch out your Bare client.
 
-If you operate using an older Ultraviolet, we encourage you to update.
-
+If you operate using an older , we encourage you to update.
+Ultraviolet
 If you're too lazy to do either of the above, you can install an outdated and unsupported version of Ultraviolet.
 
 ```sh
