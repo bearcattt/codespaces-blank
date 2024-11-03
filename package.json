@@ -1,8 +1,8 @@
 {
-  "name": "icons4life",
+  "name": "uv",
   "version": "3.2.10",
-  "description": "",
-   "main": "lib/index.cjs",
+  "description": "Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!",
+  "main": "lib/index.cjs",
   "license": "MIT",
   "repository": {
     "type": "git",
